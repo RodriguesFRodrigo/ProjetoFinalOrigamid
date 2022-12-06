@@ -1,0 +1,45 @@
+/* ----- RESET ----- */
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* ----- HEADER ----- */
+.header-bg {
+    background-color: #000;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    max-width: 1200px;
+    /* Não adiciona valores de preenchimento, 1200px já inclui valores de preenchimento */
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-menu {
+    display: flex;
+    gap: 40px;
+}
+
+.header-menu a {
+    /* Respeitar as propriedades do box-model */
+    display: inline-block;
+    padding: 16px 0;
+    color: #fff;
+    font-size: 18px;
+}
