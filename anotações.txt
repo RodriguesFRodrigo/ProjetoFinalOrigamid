@@ -1,0 +1,4 @@
+Imagens
+
+    -- Não use imagens dentro da grade diretamente.
+    -- Envolva as imagens em um div ou tag de imagem.
