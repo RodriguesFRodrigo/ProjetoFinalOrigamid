@@ -1,0 +1,12 @@
+Imagens
+
+    -- Não use imagens dentro da grade diretamente.
+    -- Envolva as imagens em um div ou tag de imagem.
+
+Vazar imagem com box shadow
+
+    -- Podemos criar um box-shadow da cor do background
+
+Tipografias
+
+    -- Quanto mais tipografias carregar, mais pesado o site se torna.
