@@ -16,3 +16,9 @@ Organização do css
     Global: componentes reutilizados no site inteiro. Header, footer, reset, ...
     Home: css da Home
     Utilidades: pequenos componentes reutilizados em todo o site
+
+CSS Utilitario
+
+    Tipografias
+    Cores
+        O código CSS se torna mais limpo, focado apenas no posicionamento.
