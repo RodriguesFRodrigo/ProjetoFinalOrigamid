@@ -28,6 +28,7 @@ img {
     display: block;
 }
 
+/* Seleciona todas as imagens que terminam com .jpg */
 img[src$=".jpg"] {
     border-radius: 4px;
 }
