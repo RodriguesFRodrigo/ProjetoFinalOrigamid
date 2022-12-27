@@ -9,12 +9,8 @@
     gap: 20px;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
-    max-width: 1200px;
-    /* Não adiciona valores de preenchimento, 1200px já inclui valores de preenchimento */
-    box-sizing: border-box;
-    margin-left: auto;
-    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .header-menu {
