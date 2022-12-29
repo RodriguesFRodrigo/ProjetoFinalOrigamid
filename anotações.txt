@@ -25,4 +25,10 @@ CSS Utilitario
 
 Texto genérico
     
-    Coloque numa tag span, para não indexar os mecanismos de busca
+    Coloque numa tag span, para não indexar os mecanismos de busca.
+
+Aplicar estilos somente a um tipo de elemento que seja o primeiro filho direto
+
+    .class > p
+    Aplica os estilos somente no primeiro p que seja filho direto de .class
+    Pense nisso na hora de estruturar se html
