@@ -22,3 +22,7 @@ CSS Utilitario
     Tipografias
     Cores
         O código CSS se torna mais limpo, focado apenas no posicionamento.
+
+Texto genérico
+    
+    Coloque numa tag span, para não indexar os mecanismos de busca
